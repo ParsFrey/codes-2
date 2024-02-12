@@ -1,0 +1,8 @@
+z = input('The first number: ')
+y = input('The second number: ')
+z = int(z)
+y = int(y)
+print('for X: ',z*y)
+print('for +: ',z+y)
+print('for ÷: ',z/y)
+print('for -: ',z-y)

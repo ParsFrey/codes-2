@@ -1,0 +1,5 @@
+y = input("enter your list : ")
+y = y[1:-1].split(",")
+x = input('index: ')
+c = y.index(x)
+print(c)

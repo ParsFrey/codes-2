@@ -1,0 +1,5 @@
+x = input('your list:')
+x = x[1:-1].split(",")
+x.sort()
+print('The sorted version of your list: ' , x)
+print('The lenth of your list: ' , len(x))
